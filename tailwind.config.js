@@ -13,6 +13,7 @@ module.exports = {
         blue: '#8FBFFF',
         ungu: '#6A6AFF',
         red: '#EF4565',
+        hijau: '#079292',
       },
 
       boxShadow: {
